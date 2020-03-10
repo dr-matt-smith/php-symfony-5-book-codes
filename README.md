@@ -19,6 +19,10 @@ Part 3 - Forms
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-forms
 
-Part 3-extra - Forms & Database queries
+Part 4 - Forms & Database queries
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-form-queries
+
+Part 7 - Security
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-security
